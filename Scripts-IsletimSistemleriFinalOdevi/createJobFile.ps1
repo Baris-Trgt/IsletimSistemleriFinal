@@ -5,7 +5,7 @@ Set-ExecutionPolicy RemoteSigned
 
 <# 
 
- Eger size gonderdigimiz "Scripts-IsletimSistemleriFinalOdevi" adli klasor masaustunde degilse bu klasoru masaustune almayi ve asagidaki -Argument kisminde Scriptimizin yolunda bulunan "Umut" yazisini kendi user name'nize gore degistirmenizi
+ Eger size gonderdigimiz "Scripts-IsletimSistemleriFinalOdevi" adli klasor masaustunde degilse bu klasoru masaustune almayi ve asagidaki -Argument kisminde Scriptimizin yolunda bulunan "baris" yazisini kendi user name'nize gore degistirmenizi
  rica ederiz.  
  
  #>
